@@ -2,7 +2,7 @@ defmodule PkgTar.MixProject do
   use Mix.Project
 
   @name :pkg_tar
-  @version "0.1.0"
+  @version "0.1.1"
   @description """
   Elixir lib for creating tar.gz files with Mix Release.
   """

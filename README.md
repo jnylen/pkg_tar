@@ -12,7 +12,7 @@ The package can be installed by adding `pkg_tar` to your list of dependencies in
 ```elixir
 def deps do
   [
-    {:pkg_tar, "~> 0.1.0"}
+    {:pkg_tar, "~> 0.1.1"}
   ]
 end
 ```
