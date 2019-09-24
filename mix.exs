@@ -8,7 +8,6 @@ defmodule PkgTar.MixProject do
   """
   @deps [
     {:pkg_core, "~> 0.1"},
-    {:vex, "~> 0.8"},
     {:ex_doc, ">= 0.0.0", only: :dev, runtime: false}
   ]
 
